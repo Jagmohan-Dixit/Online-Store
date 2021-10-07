@@ -13,12 +13,12 @@ const NavBar = observer(() => {
             <Container>
             <NavLink style={{color: 'red'}} to={SHOP_ROUTE}>StudyТехноПлюс</NavLink>
             {user.isAuth ?
-                <Nav className="ml-auto" style={{color: 'white'}}>
-                    <Button variant={"outline-light"} className="m-2">Админ панель</Button>
-                    <Button variant={"outline-light"} className="m-2">Выйти</Button>
+                <Nav className="ms-auto" style={{color: 'white'}}>
+                    <Button variant={"outline-light"} className="me-3">Админ панель</Button>
+                    <Button variant={"outline-light"} >Выйти</Button>
                 </Nav>
                 :
-                <Nav className="ml-auto" style={{color: 'white'}}>
+                <Nav className="ms-auto" style={{color: 'white'}}>
                     <Button variant={"outline-light"} onClick={() => user.setIsAuth(true)}>Авторизация</Button>
                 </Nav>
             }
