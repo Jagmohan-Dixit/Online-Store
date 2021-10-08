@@ -24,6 +24,7 @@ export default class DeviceStore {
             {id: 6, name: "Iphone 12", price: 950, rating: 5, img: 'https://static.21vek.by/img/galleries/6514/570/preview_b/iphone1264gbmjnm3_apple_608bde7c26aef.png'},
             {id: 7, name: "Iphone 12", price: 950, rating: 5, img: 'https://static.21vek.by/img/galleries/6514/570/preview_b/iphone1264gbmjnm3_apple_608bde7c26aef.png'},
             {id: 8, name: "Iphone 12", price: 950, rating: 5, img: 'https://static.21vek.by/img/galleries/6514/570/preview_b/iphone1264gbmjnm3_apple_608bde7c26aef.png'},
+            {id: 9, name: "Iphone 12", price: 950, rating: 5, img: 'https://static.21vek.by/img/galleries/6514/570/preview_b/iphone1264gbmjnm3_apple_608bde7c26aef.png'},
         ]
         this._selectedType = {}
         this._selectedBrand = {}
