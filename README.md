@@ -6,4 +6,4 @@ npm run dev - start server
 
 npm start - start client
 
-![alt text](https://github.com/Peterblr/React/blob/master/IMG_1/LG_43TM.jpg)
+![alt text](https://github.com/Peterblr/React/blob/master/start_page.png)
