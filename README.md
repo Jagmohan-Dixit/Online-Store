@@ -1,9 +1,11 @@
 # React
 
-my first big project
+Это мой первый большой проект для резюме.
 
-npm run dev - start server
+npm run dev - запуск сервера
 
-npm start - start client
+npm start - запуск клиента
 
-![alt text](https://github.com/Peterblr/React/blob/master/IMG_1/LG_43TM.jpg)
+В итоге должна открыться заглавная страница интернет-магазина.
+
+![alt text](https://github.com/Peterblr/React/blob/master/start_page.png)
