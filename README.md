@@ -25,23 +25,39 @@ npm init -y инициализируем проект в терменале.
 
 Скачиваем и устанавливаем половину интернета: 
 
+
  npm i express pg pg-hstore sequelize cors dotenv
+ 
  npm i -D nodemon
+ 
  npm i uuid
+ 
  npm i express-fileupload
+ 
  npm i jsonwebtoken bcrypt
+ 
  npx create-react-app .
- npm i axios react-router-dom mobx mobx-react-lite
+ 
+ npm i axios react-router-d
+ 
+ om mobx mobx-react-lite
+ 
  npm install react-bootstrap@next bootstrap@5.1.1
+ 
  npm i jwt-decode
  
  Вроде все что нужно для скачивания указал.
  
  Также хочется отметить:
+ 
     Sequelize - ORM для работы с БД на Node.js (что б не писать напрямую SQL-запросы)
+    
     Express - framework для написания серверной части на Node.js
+    
     React bootstrap - это графика для фронтэнда (и да, в 5-й части есть отличия по классам, чего стоит mr-2 нужно писать me-2!!!)
+    
     Axios - запросы к серверу
+    
     React-router-dom - навигация
     
 Вроде бы все основные моменты указаны, что б можно было спокойно запустить проект.
