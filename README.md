@@ -25,26 +25,23 @@ npm init -y инициализируем проект в терменале.
 
 Скачиваем и устанавливаем половину интернета: 
 
-
- npm i express pg pg-hstore sequelize cors dotenv
+    npm i express pg pg-hstore sequelize cors dotenv
  
- npm i -D nodemon
+    npm i -D nodemon
  
- npm i uuid
+    npm i uuid
  
- npm i express-fileupload
+    npm i express-fileupload
  
- npm i jsonwebtoken bcrypt
+    npm i jsonwebtoken bcrypt
  
- npx create-react-app .
+    npx create-react-app .
  
- npm i axios react-router-d
+    npm i axios react-router-dom mobx mobx-react-lite
  
- om mobx mobx-react-lite
+    npm install react-bootstrap@next bootstrap@5.1.1
  
- npm install react-bootstrap@next bootstrap@5.1.1
- 
- npm i jwt-decode
+    npm i jwt-decode
  
  Вроде все что нужно для скачивания указал.
  
