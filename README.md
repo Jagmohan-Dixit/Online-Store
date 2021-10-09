@@ -8,4 +8,4 @@ npm start - запуск клиента
 
 В итоге должна открыться заглавная страница интернет-магазина.
 
-![alt text](https://github.com/Peterblr/React/blob/master/start_page.png)
+![alt text](https://github.com/Peterblr/React/blob/master/StartPage.jpg)
