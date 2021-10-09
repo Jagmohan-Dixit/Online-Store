@@ -1,4 +1,7 @@
 # React
-my first dig project
+
+my first big project
+
 npm run dev - start server
+
 npm start - start client
