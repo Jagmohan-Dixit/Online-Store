@@ -1,6 +1,6 @@
 # React
 
-my first big project
+This is my first big project for resume.
 
 npm run dev - start server
 
