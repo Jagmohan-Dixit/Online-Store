@@ -1,9 +1,11 @@
 # React
 
-This is my first big project for resume.
+Это мой первый большой проект для резюме.
 
-npm run dev - start server
+npm run dev - запуск сервера
 
-npm start - start client
+npm start - запуск клиента
+
+В итоге должна открыться заглавная страница интернет-магазина.
 
 ![alt text](https://github.com/Peterblr/React/blob/master/start_page.png)
